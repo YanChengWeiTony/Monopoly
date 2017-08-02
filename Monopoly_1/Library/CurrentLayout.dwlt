@@ -88,10 +88,10 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 754
-  m_MinSize: {x: 911, y: 271}
-  m_MaxSize: {x: 22006, y: 10021}
+  m_MinSize: {x: 917, y: 271}
+  m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 90
+  controlID: 86
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,8 +130,8 @@ MonoBehaviour:
     y: 0
     width: 274
     height: 754
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -180,8 +180,8 @@ MonoBehaviour:
     y: 0
     width: 358
     height: 754
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -239,7 +239,7 @@ MonoBehaviour:
     x: 0
     y: 94
     width: 504
-    height: 736
+    height: 733
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,10 +267,10 @@ MonoBehaviour:
     width: 270
     height: 733
   m_TreeViewState:
-    scrollPos: {x: 0, y: 628}
-    m_SelectedIDs: 4efbffff
-    m_LastClickedID: -1202
-    m_ExpandedIDs: 40e5faff9aeffbff0c96fcff9ab8fcfffa9afdff1ad1fdff80faffffbafaffffc6faffff0cfbffff52fbffff98fbffffd2fbffffd4fbffffdefbffffe0fbffff0000000084250000c02500008e260000d42600006e270000ec2700001e280000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 9afaffff
+    m_LastClickedID: -1382
+    m_ExpandedIDs: 6a57fcff76d3fcffc8f7ffffecf7fffff0f8ffff3af9ffff80f9ffffc6f9ffff1cfaffff20faffff8efaffff98faffff9afaffffe0fbffff0000000094250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -363,19 +363,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: 57
   m_LastProjectPath: /Users/Tony/Desktop/unity/Monopoly_1
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c8240000
-    m_LastClickedID: 9416
-    m_ExpandedIDs: 00000000a424000000ca9a3bffffff7f
+    m_SelectedIDs: 20250000
+    m_LastClickedID: 9504
+    m_ExpandedIDs: 00000000a824000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -403,7 +403,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a4240000
+    m_ExpandedIDs: 00000000a8240000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -514,7 +514,7 @@ MonoBehaviour:
       y: 17
       width: 504
       height: 716
-    m_Scale: {x: 1, y: 1}
+    m_Scale: {x: 0.984375, y: 0.98437506}
     m_Translation: {x: 252, y: 358}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -522,12 +522,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -252
-      y: -358
-      width: 504
-      height: 716
+      x: -256
+      y: -363.68253
+      width: 512
+      height: 727.36505
     m_MinimalGUI: 1
-  m_defaultScale: 1
+  m_defaultScale: 0.984375
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 1008, y: 1466}
@@ -561,14 +561,14 @@ MonoBehaviour:
     width: 504
     height: 733
   m_SceneLighting: 1
-  lastFramingTime: 10460.667146027088
+  lastFramingTime: 5384.53692394495
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.1619718, y: -12.968697, z: -0.0000038444996}
+    m_Target: {x: -0.058390245, y: -0.99832773, z: 0.0000038146973}
     speed: 2
-    m_Value: {x: 1.1619718, y: -12.968697, z: -0.0000038444996}
+    m_Value: {x: -0.058390245, y: -0.99832773, z: 0.0000038146973}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -595,9 +595,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.6890717
+    m_Target: 5.8571563
     speed: 2
-    m_Value: 6.6890717
+    m_Value: 5.8571563
   m_Ortho:
     m_Target: 1
     speed: 2

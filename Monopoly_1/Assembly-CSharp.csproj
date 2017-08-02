@@ -53,6 +53,7 @@
      <Compile Include="Assets\Scripts\Canvas_3Controller.cs" />
      <Compile Include="Assets\Scripts\Cma_CanvasController.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\Network_Update.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
