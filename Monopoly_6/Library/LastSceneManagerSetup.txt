@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_scenes/Home Screen.unity
+- path: Assets/_scenes/First Page.unity
   isLoaded: 1
   isActive: 1

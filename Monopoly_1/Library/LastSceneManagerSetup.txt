@@ -1,4 +1,1 @@
-sceneSetups:
-- path: Assets/_scenes/Home Screen.unity
-  isLoaded: 1
-  isActive: 1
+sceneSetups: []
